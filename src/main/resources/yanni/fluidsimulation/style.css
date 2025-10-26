@@ -1,0 +1,39 @@
+.root {
+    -fx-background-color: #000000;
+}
+/**
+---------------------------------------------START ANIMACJI BUTTON------------------------------------------------------
+ */
+#startButton {
+    -fx-background-color: linear-gradient(to bottom, #444444, #222222); /* ciemny gradient */
+    -fx-text-fill: rgba(255, 255, 255, 0.55); /* biała czcionka */
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10; /* zaokrąglone rogi */
+    -fx-padding: 10 20 10 20;
+    -fx-cursor: hand; /* kursor jak w linku */
+    -fx-border-color: #555555;
+    -fx-border-radius: 10;
+    -fx-border-width: 1.5;
+}
+
+/**
+---------------------------------------------PARTICLE COLOR-------------------------------------------------------------
+ */
+.particle {
+    -fx-fill: cornflowerblue;
+    -fx-stroke: transparent;
+}
+
+#bounds {
+    -fx-fill: transparent;
+    -fx-stroke: rgba(10, 220, 115, 0.5);
+    -fx-border-width: 7px;
+}
+
+.smoothingCircle {
+    -fx-fill: transparent;
+    -fx-stroke: cyan;
+    -fx-stroke-width: 1;
+    -fx-effect: dropshadow(gaussian, rgba(100, 200, 255, 0.6), 15, 0.9, 0, 0);
+}
