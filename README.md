@@ -141,6 +141,7 @@ In `SPHSolver.java`:
 
 ---
 
+## Other Projects
 
 * **Multiplayer Combat Game** - Real-time multiplayer game built with Spring Boot and JavaFX
 * **Mass-Spring Simulation** - A simple physics simulation of a spring-mass system with a bouncing ball
