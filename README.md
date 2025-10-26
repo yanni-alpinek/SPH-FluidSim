@@ -136,5 +136,12 @@ In `SPHSolver.java`:
 - Obstacles you can place
 - Save/load simulations
 
-Built to learn physics simulation and particle systems.
+>Built to learn physics simulation and particle systems.
 
+
+---
+
+
+* **Multiplayer Combat Game** - Real-time multiplayer game built with Spring Boot and JavaFX
+* **Mass-Spring Simulation** - A simple physics simulation of a spring-mass system with a bouncing ball
+* **Real-Time Chat** - A real-time chat application using WebSockets for instant messaging
