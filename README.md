@@ -3,7 +3,7 @@
 Physics simulation of fluid behavior using Smoothed Particle Hydrodynamics. Watch 1500+ particles interact with gravity, pressure, and viscosity in real time.
 
 
-![Fluid Simulation](FluidSimulationGIF.gif)
+![Fluid Simulation](FluidSimulationGIF.gif) 
 ---
 
 ## What It Does
